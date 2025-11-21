@@ -15,7 +15,7 @@ Viser data fra Rick & Morty API med søkefunksjon og dynamiske sider.
 
 ---
 
-### [useState Tasks](https://github.com/paulabv04/useState-tasks)
+### [useState Tasks](https://github.com/paulabv04/useState.git)
 Små øvingsoppgaver som viser hvordan `useState` brukes til å håndtere tilstand i React.  
 **Teknologier:** React, JavaScript (ES6)
 
@@ -50,6 +50,13 @@ Nettside for en kjøttbutikk, bygget med JS og HTML/CSS.
 ### [Interaksjonsdesign – Prototype](https://github.com/paulabv04/Interaksjonsdesign.git)
 Ferdig teamprosjekt hvor vi utviklet vår egen app-idé og bygde en full interaktiv prototype i Figma.  
 **Teknologier:** Figma, interaksjonsdesign, UX/UI
+
+---
+
+### [Monsterapp](https://github.com/paulabv04/Monster-App)
+En enkel React-applikasjon som viser en liste med monstre.  
+Prosjektet demonstrerer bruk av props, komponenter og `useState` for å håndtere data og interaksjon.
+**Teknologier:** React, JavaScript (ES6), Vite, CSS
 
 ---
 
@@ -118,6 +125,11 @@ Completed team project where we developed our own app concept and built a full i
 **Technologies:** Figma, Interaction Design, UX/UI
 
 ---
+
+### [Monster App](https://github.com/paulabv04/Monster-App)
+A simple React application that displays a list of monsters.  
+The project demonstrates the use of props, components, and `useState` to manage data and interactions.
+**Technologies:** React, JavaScript (ES6), Vite, CSS
 
 ## About Me
 I enjoy combining creativity and technology to create engaging, user-friendly solutions.  
