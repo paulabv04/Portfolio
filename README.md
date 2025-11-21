@@ -47,6 +47,12 @@ Nettside for en kjøttbutikk, bygget med JS og HTML/CSS.
 
 ---
 
+### [Interaksjonsdesign – Prototype](https://github.com/paulabv04/Interaksjonsdesign.git)
+Ferdig teamprosjekt hvor vi utviklet vår egen app-idé og bygde en full interaktiv prototype i Figma.  
+**Teknologier:** Figma, interaksjonsdesign, UX/UI
+
+---
+
 ## Om meg
 Jeg liker å kombinere teknologi og kreativitet for å bygge brukervennlige, engasjerende løsninger.  
 Fremover ønsker jeg å utvikle meg videre innen **frontend, apputvikling og interaktive webopplevelser**.
@@ -55,7 +61,8 @@ Fremover ønsker jeg å utvikle meg videre innen **frontend, apputvikling og int
 ✉️ [paulabv04@gmail.com](mailto:paulabv04@gmail.com)
 
 
-
+ 
+## English 
 
 # Portfolio – Paula Vega
 
@@ -106,7 +113,7 @@ Website built with HTML, CSS, and JavaScript.
 
 ---
 
-### **Interaction Design – Prototype**
+### [Interaction Design – Prototype] (https://github.com/paulabv04/Interaksjonsdesign.git)**
 Completed team project where we developed our own app concept and built a full interactive prototype in Figma.  
 **Technologies:** Figma, Interaction Design, UX/UI
 
