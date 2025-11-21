@@ -113,7 +113,7 @@ Website built with HTML, CSS, and JavaScript.
 
 ---
 
-### [Interaction Design – Prototype] (https://github.com/paulabv04/Interaksjonsdesign.git)**
+### [Interaction Design – Prototype](https://github.com/paulabv04/Interaksjonsdesign.git)
 Completed team project where we developed our own app concept and built a full interactive prototype in Figma.  
 **Technologies:** Figma, Interaction Design, UX/UI
 
