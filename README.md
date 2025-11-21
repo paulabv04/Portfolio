@@ -65,7 +65,7 @@ Jeg liker å kombinere teknologi og kreativitet for å bygge brukervennlige, eng
 Fremover ønsker jeg å utvikle meg videre innen **frontend, apputvikling og interaktive webopplevelser**.
 
 --- 
-✉️ [paulabv04@gmail.com](mailto:paulabv04@gmail.com)
+✉️ [paulavega897@gmail.com](mailto:paulavega897@gmail.com)
 
 
  
@@ -137,4 +137,4 @@ My goal is to continue developing within **frontend, app development, and intera
 
 ---
 
-✉️ [paulabv04@gmail.com](mailto:paulabv04@gmail.com)
+✉️ [paulavega897@gmail.com](mailto:paulavega897@gmail.com)
